@@ -1,0 +1,1 @@
+python main.py --image-url gcr.io/google-containers/kibana:4.6.1 registry.hub.docker.com/library/busybox:1.36.0 public.ecr.aws/aws-controllers-k8s/lambda-controller:1.7.2 ghcr.io/actions/gha-runner-scale-set-controller:0.8.3 quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.27.1 prom/prometheus:v3.0.1 --github-token ${TOKEN}
